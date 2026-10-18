@@ -1,15 +1,15 @@
 /**
- * @name HYWmusic_公益版
- * @version v1.2.0
+ * @name H
+ * @version 
  * @author Ryn
- * @description qq群：1094095648；965503129
- * @homepage https://github.com/Macrohard0001/HYWmusic_source
+ * @description 
+ * @homepage 
  * @license MIT
- * @updateUrl https://103.79.184.97/api/releases?script=HYWmusic_%E5%85%AC%E7%9B%8A%E7%89%88&scriptType=free&releaseType=lx&version=v1.2.0
+ * @updateUrl 
  *
  * 支持平台: kw、tx、wy、mg、qs、bili、ytb、xm、kg
  * 支持音质: 128k、320k、flac、flac24bit
- * 生成时间: 2026-10-08T11:39:01.047Z
+ * 
  *
  * 协议参考：ikun-music-source.js + lxmusic.toside.cn/desktop/custom-source
  *   - MUSIC_QUALITY 每平台独立音质（收敛到规范标准集，高音质可直接请求由服务端解析）
